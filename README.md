@@ -1,2 +1,3 @@
 # TheWetCat
-This is a demo portfolio of TheWetCat
+This is a portfolio of TheWetCat
+
